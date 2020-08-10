@@ -41,6 +41,11 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.hello {
+  margin: 20px auto;
+  max-width: 800px;
+  text-align: center;
+}
 h3 {
   margin: 40px 0 0;
 }
